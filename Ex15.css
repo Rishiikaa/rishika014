@@ -1,0 +1,28 @@
+
+		h1{
+			font-size:30px;
+			font-weight:bolder;
+			background-color:rgba(34,97,48,0.5);
+			}
+		h2{
+				font-size:20px;
+			background-color:rgba(234,56,49,0.5);
+			}
+		p{
+			font-size:15px;
+			background-color:rgb(43,67,223);
+			line-height:45px;
+		}
+		body
+		{
+			background-image:url("images/39.jpg");
+			background-position:center;
+			background-size:900px 900px;
+			background-image:linear-gradient(to right bottom,rgba(25,67,87,0.7),rgba(255,255,255,0.7)),url("images/39.jpg")
+			
+		}
+		span
+		{
+			background-color:pink;
+		}
+
